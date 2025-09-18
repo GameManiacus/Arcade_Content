@@ -33,7 +33,7 @@
           "size": 12345678,
           "archives": [
             {
-              "url": "https://github.com/GameManiacus/Arcade-Content/releases/download/v0.0.2/Test.2.zip",
+              "url": "https://github.com/GameManiacus/Arcade-Content/releases/download/v0.0.1/Test.1.zip",
               "sha256": "78576bf36049e97506e369bc45853b3ee62f1c2ea287851cef1b9da6586f744b"
             }
           ]
@@ -63,6 +63,7 @@
     }
   ]
 }
+
 
 
 
