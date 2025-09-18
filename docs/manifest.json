@@ -27,7 +27,7 @@
               "sha256": "78576bf36049e97506e369bc45853b3ee62f1c2ea287851cef1b9da6586f744b"
             }
           ]
-        }
+        },
         "0.0.2": {
           "releaseNotes": "New pipes & bug fixes.",
           "size": 12345678,
@@ -63,5 +63,6 @@
     }
   ]
 }
+
 
 
