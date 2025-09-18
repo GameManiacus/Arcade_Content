@@ -14,7 +14,7 @@
       "title": "Bouncy Bird",
       "platform": [ "windows" ],
       "summary": "Flappy bird like game.",
-      "icon": "https://gamemaniacus.github.io/Arcade-Content/docs/Bird_01.png",
+      "icon": "https://gamemaniacus.github.io/Arcade-Content/Bird_01.png",
       "installDirName": "BouncyBird",
       "latest": "0.0.1",
       "versions": {
@@ -32,3 +32,4 @@
     }
   ]
 }
+
