@@ -1,0 +1,55 @@
+﻿{
+  "schema": 1,
+  "channel": "stable",
+  "generatedAt": "2025-09-18T08:00:00Z",
+  "launcher": {
+    "minVersion": "1.0.0",
+    "latestVersion": "1.0.0",
+    "download": "https://cdn.example.com/launcher.zip",
+    "sha256": "abc"
+  },
+  "games": [
+    {
+      "id": "space-blitz",
+      "title": "Space Blitz",
+      "platform": [ "windows" ],
+      "summary": "Fast retro shooter.",
+      "icon": "https://via.placeholder.com/64",
+      "installDirName": "SpaceBlitz",
+      "latest": "1.3.0",
+      "versions": {
+        "1.3.0": {
+          "releaseNotes": "Boss rework, perf fixes.",
+          "size": 184532910,
+          "archives": [
+            {
+              "url": "https://cdn.example.com/games/space-blitz/1.3.0.zip",
+              "sha256": "deadbeef"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "pinball-pro",
+      "title": "Pinball Pro",
+      "platform": [ "windows" ],
+      "summary": "Classic pinball.",
+      "icon": "https://via.placeholder.com/64",
+      "installDirName": "PinballPro",
+      "latest": "2.0.1",
+      "versions": {
+        "2.0.1": {
+          "releaseNotes": "New table and fixes.",
+          "size": 120000000,
+          "archives": [
+            {
+              "url": "https://cdn.example.com/games/pinball/2.0.1.zip",
+              "sha256": "feedface"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
