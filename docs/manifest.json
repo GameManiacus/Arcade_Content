@@ -6,13 +6,13 @@
     "minVersion": "0.0.1",
     "latestVersion": "0.0.1",
     "download": "https://github.com/GameManiacus/Arcade-Content/releases/download/v0.0.1/Test.1.zip",
-    "sha256": "<sha256:78576bf36049e97506e369bc45853b3ee62f1c2ea287851cef1b9da6586f744b>"
+    "sha256": "78576bf36049e97506e369bc45853b3ee62f1c2ea287851cef1b9da6586f744b"
   },
   "games": [
     {
       "id": "Bouncy-Bird",
       "title": "Bouncy Bird",
-      "platform": [ "windows" ],
+      "platform": ["windows"],
       "summary": "Flappy bird like game.",
       "icon": "https://gamemaniacus.github.io/Arcade-Content/Bird_01.png",
       "installDirName": "BouncyBird",
@@ -24,7 +24,28 @@
           "archives": [
             {
               "url": "https://github.com/GameManiacus/Arcade-Content/releases/download/v0.0.1/Test.1.zip",
-              "sha256": "<sha256:78576bf36049e97506e369bc45853b3ee62f1c2ea287851cef1b9da6586f744b>"
+              "sha256": "78576bf36049e97506e369bc45853b3ee62f1c2ea287851cef1b9da6586f744b"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "new-racer",
+      "title": "New Racer",
+      "platform": ["windows"],
+      "summary": "Arcade racing.",
+      "icon": "https://gamemaniacus.github.io/Arcade-Content/Bird_01.png",
+      "installDirName": "NewRacer",
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseNotes": "Initial release.",
+          "size": 250000000,
+          "archives": [
+            {
+              "url": "https://github.com/GameManiacus/Arcade-Content/releases/download/v0.0.1/Test.2.zip",
+              "sha256": "<PUT_REAL_SHA256_OF_Test.2.zip_HERE>"
             }
           ]
         }
@@ -32,5 +53,3 @@
     }
   ]
 }
-
-
