@@ -28,6 +28,16 @@
             }
           ]
         }
+        "0.0.2": {
+          "releaseNotes": "New pipes & bug fixes.",
+          "size": 12345678,
+          "archives": [
+            {
+              "url": "https://github.com/GameManiacus/Arcade-Content/releases/download/v0.0.2/Test.2.zip",
+              "sha256": "<PUT_REAL_SHA256_OF_Test.2.zip>"
+            }
+          ]
+        }
       }
     },
     {
@@ -53,4 +63,5 @@
     }
   ]
 }
+
 
