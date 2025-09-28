@@ -45,7 +45,7 @@
       "title": "New Racer",
       "platform": ["windows"],
       "summary": "Arcade racing.",
-      "icon": "https://gamemaniacus.github.io/Arcade-Content/Bird_01.png",
+      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
       "installDirName": "NewRacer",
       "latest": "1.0.0",
       "versions": {
@@ -63,6 +63,7 @@
     }
   ]
 }
+
 
 
 
