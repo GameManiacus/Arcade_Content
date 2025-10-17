@@ -156,6 +156,132 @@
         }
       }
     },
+       {
+      "id": "combat-mility",
+      "title": "Combat Arena",
+      "platform": ["windows"],
+      "summary": "Fast-paced action fighting game.",
+      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
+      "installDirName": "CombatArena",
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseNotes": "Initial release.",
+          "size": 300000000,
+          "archives": [
+            {
+              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.5.zip",
+              "sha256": "<PUT_REAL_SHA256_OF_Test.5.zip_HERE>"
+            }
+          ]
+        }
+      }
+    },
+       {
+      "id": "combat-system",
+      "title": "Combat Arena",
+      "platform": ["windows"],
+      "summary": "Fast-paced action fighting game.",
+      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
+      "installDirName": "CombatArena",
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseNotes": "Initial release.",
+          "size": 300000000,
+          "archives": [
+            {
+              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.5.zip",
+              "sha256": "<PUT_REAL_SHA256_OF_Test.5.zip_HERE>"
+            }
+          ]
+        }
+      }
+    },
+       {
+      "id": "mini-militia",
+      "title": "Combat Arena",
+      "platform": ["windows"],
+      "summary": "Fast-paced action fighting game.",
+      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
+      "installDirName": "CombatArena",
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseNotes": "Initial release.",
+          "size": 300000000,
+          "archives": [
+            {
+              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.5.zip",
+              "sha256": "<PUT_REAL_SHA256_OF_Test.5.zip_HERE>"
+            }
+          ]
+        }
+      }
+    },
+       {
+      "id": "space-runner",
+      "title": "Combat Arena",
+      "platform": ["windows"],
+      "summary": "Fast-paced action fighting game.",
+      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
+      "installDirName": "CombatArena",
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseNotes": "Initial release.",
+          "size": 300000000,
+          "archives": [
+            {
+              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.5.zip",
+              "sha256": "<PUT_REAL_SHA256_OF_Test.5.zip_HERE>"
+            }
+          ]
+        }
+      }
+    },
+       {
+      "id": "combat-Mount",
+      "title": "Combat Arena",
+      "platform": ["windows"],
+      "summary": "Fast-paced action fighting game.",
+      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
+      "installDirName": "CombatArena",
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseNotes": "Initial release.",
+          "size": 300000000,
+          "archives": [
+            {
+              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.5.zip",
+              "sha256": "<PUT_REAL_SHA256_OF_Test.5.zip_HERE>"
+            }
+          ]
+        }
+      }
+    },
+       {
+      "id": "combat-arena",
+      "title": "Combat Arena",
+      "platform": ["windows"],
+      "summary": "Fast-paced action fighting game.",
+      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
+      "installDirName": "CombatArena",
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseNotes": "Initial release.",
+          "size": 300000000,
+          "archives": [
+            {
+              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.5.zip",
+              "sha256": "<PUT_REAL_SHA256_OF_Test.5.zip_HERE>"
+            }
+          ]
+        }
+      }
+    },
     {
       "id": "snake-classic",
       "title": "Snake Classic",
@@ -242,3 +368,4 @@
     }
   ]
 }
+
