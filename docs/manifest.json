@@ -92,6 +92,153 @@
           ]
         }
       }
+    },
+    {
+      "id": "space-shooter",
+      "title": "Space Shooter",
+      "platform": ["windows"],
+      "summary": "Classic space shooter arcade game.",
+      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
+      "installDirName": "SpaceShooter",
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseNotes": "Initial release.",
+          "size": 150000000,
+          "archives": [
+            {
+              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.3.zip",
+              "sha256": "<PUT_REAL_SHA256_OF_Test.3.zip_HERE>"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "puzzle-master",
+      "title": "Puzzle Master",
+      "platform": ["windows"],
+      "summary": "Brain-teasing puzzle game.",
+      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
+      "installDirName": "PuzzleMaster",
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseNotes": "Initial release.",
+          "size": 80000000,
+          "archives": [
+            {
+              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.4.zip",
+              "sha256": "<PUT_REAL_SHA256_OF_Test.4.zip_HERE>"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "combat-arena",
+      "title": "Combat Arena",
+      "platform": ["windows"],
+      "summary": "Fast-paced action fighting game.",
+      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
+      "installDirName": "CombatArena",
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseNotes": "Initial release.",
+          "size": 300000000,
+          "archives": [
+            {
+              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.5.zip",
+              "sha256": "<PUT_REAL_SHA256_OF_Test.5.zip_HERE>"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "snake-classic",
+      "title": "Snake Classic",
+      "platform": ["windows"],
+      "summary": "Retro snake game with modern graphics.",
+      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
+      "installDirName": "SnakeClassic",
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseNotes": "Initial release.",
+          "size": 45000000,
+          "archives": [
+            {
+              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.6.zip",
+              "sha256": "<PUT_REAL_SHA256_OF_Test.6.zip_HERE>"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "brick-breaker",
+      "title": "Brick Breaker",
+      "platform": ["windows"],
+      "summary": "Addictive brick breaking arcade game.",
+      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
+      "installDirName": "BrickBreaker",
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseNotes": "Initial release.",
+          "size": 65000000,
+          "archives": [
+            {
+              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.7.zip",
+              "sha256": "<PUT_REAL_SHA256_OF_Test.7.zip_HERE>"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "maze-runner",
+      "title": "Maze Runner",
+      "platform": ["windows"],
+      "summary": "Navigate complex mazes to win.",
+      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
+      "installDirName": "MazeRunner",
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseNotes": "Initial release.",
+          "size": 120000000,
+          "archives": [
+            {
+              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.8.zip",
+              "sha256": "<PUT_REAL_SHA256_OF_Test.8.zip_HERE>"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "platformer-quest",
+      "title": "Platformer Quest",
+      "platform": ["windows"],
+      "summary": "Epic platformer adventure game.",
+      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
+      "installDirName": "PlatformerQuest",
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseNotes": "Initial release.",
+          "size": 200000000,
+          "archives": [
+            {
+              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.9.zip",
+              "sha256": "<PUT_REAL_SHA256_OF_Test.9.zip_HERE>"
+            }
+          ]
+        }
+      }
     }
   ]
 }
