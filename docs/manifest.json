@@ -16,7 +16,7 @@
       "summary": "Flappy bird like game.",
       "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
       "installDirName": "BouncyBird",
-      "latest": "1.0.0",
+      "latest": "1.0.1",
       "versions": {
         "1.0.0": {
           "releaseNotes": "Boss rework, perf fixes.",
@@ -368,4 +368,5 @@
     }
   ]
 }
+
 
