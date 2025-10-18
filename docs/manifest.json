@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "channel": "stable",
-  "generatedAt": "2025-09-18T08:00:00Z",
+  "generatedAt": "2025-01-15T10:30:00Z",
   "launcher": {
     "minVersion": "0.0.1",
     "latestVersion": "0.0.1",
@@ -10,16 +10,19 @@
   },
   "games": [
     {
-      "id": "Bouncy-Bird",
-      "title": "Bouncy Bird",
+      "id": "bouncy-bird",
+      "gameName": "Bouncy Bird",
       "platform": ["windows"],
-      "summary": "Flappy bird like game.",
+      "description": "Flappy bird like game with modern graphics and smooth gameplay.",
       "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
       "installDirName": "BouncyBird",
       "latest": "1.0.1",
+      "free": true,
+      "price": 0.00,
+      "uploadedAt": "2024-12-01T10:00:00Z",
       "versions": {
-        "1.0.0": {
-          "releaseNotes": "Boss rework, perf fixes.",
+        "1.0.1": {
+          "releaseNotes": "Boss rework, performance fixes, and new levels.",
           "size": 27000,
           "archives": [
             {
@@ -31,79 +34,19 @@
       }
     },
     {
-      "id": "new-racer",
-      "title": "New Racer",
-      "platform": ["windows"],
-      "summary": "Arcade racing.",
-      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
-      "installDirName": "NewRacer",
-      "latest": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "releaseNotes": "Initial release.",
-          "size": 250000000,
-          "archives": [
-            {
-              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.2.zip",
-              "sha256": "<PUT_REAL_SHA256_OF_Test.2.zip_HERE>"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "new-racer-2",
-      "title": "New Racer",
-      "platform": ["windows"],
-      "summary": "Arcade racing.",
-      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
-      "installDirName": "NewRacer2",
-      "latest": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "releaseNotes": "Initial release.",
-          "size": 250000000,
-          "archives": [
-            {
-              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.2.zip",
-              "sha256": "<PUT_REAL_SHA256_OF_Test.2.zip_HERE>"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "new-racer-3",
-      "title": "New Racer",
-      "platform": ["windows"],
-      "summary": "Arcade racing.",
-      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
-      "installDirName": "NewRacer3",
-      "latest": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "releaseNotes": "Initial release.",
-          "size": 250000000,
-          "archives": [
-            {
-              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.2.zip",
-              "sha256": "<PUT_REAL_SHA256_OF_Test.2.zip_HERE>"
-            }
-          ]
-        }
-      }
-    },
-    {
       "id": "space-shooter",
-      "title": "Space Shooter",
+      "gameName": "Space Shooter",
       "platform": ["windows"],
-      "summary": "Classic space shooter arcade game.",
+      "description": "Classic space shooter arcade game with intense action and power-ups.",
       "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
       "installDirName": "SpaceShooter",
       "latest": "1.0.0",
+      "free": false,
+      "price": 9.99,
+      "uploadedAt": "2024-11-15T14:30:00Z",
       "versions": {
         "1.0.0": {
-          "releaseNotes": "Initial release.",
+          "releaseNotes": "Initial release with full campaign and multiplayer modes.",
           "size": 150000000,
           "archives": [
             {
@@ -116,15 +59,18 @@
     },
     {
       "id": "puzzle-master",
-      "title": "Puzzle Master",
+      "gameName": "Puzzle Master",
       "platform": ["windows"],
-      "summary": "Brain-teasing puzzle game.",
+      "description": "Brain-teasing puzzle game with hundreds of challenging levels.",
       "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
       "installDirName": "PuzzleMaster",
       "latest": "1.0.0",
+      "free": false,
+      "price": 4.99,
+      "uploadedAt": "2024-10-20T09:15:00Z",
       "versions": {
         "1.0.0": {
-          "releaseNotes": "Initial release.",
+          "releaseNotes": "Initial release with 100+ puzzle levels and hint system.",
           "size": 80000000,
           "archives": [
             {
@@ -137,230 +83,23 @@
     },
     {
       "id": "combat-arena",
-      "title": "Combat Arena",
+      "gameName": "Combat Arena",
       "platform": ["windows"],
-      "summary": "Fast-paced action fighting game.",
+      "description": "Fast-paced action fighting game with multiplayer battles.",
       "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
       "installDirName": "CombatArena",
       "latest": "1.0.0",
+      "free": false,
+      "price": 14.99,
+      "uploadedAt": "2024-09-10T16:45:00Z",
       "versions": {
         "1.0.0": {
-          "releaseNotes": "Initial release.",
+          "releaseNotes": "Initial release with 8 fighters and online multiplayer.",
           "size": 300000000,
           "archives": [
             {
               "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.5.zip",
               "sha256": "<PUT_REAL_SHA256_OF_Test.5.zip_HERE>"
-            }
-          ]
-        }
-      }
-    },
-       {
-      "id": "combat-mility",
-      "title": "Combat Arena",
-      "platform": ["windows"],
-      "summary": "Fast-paced action fighting game.",
-      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
-      "installDirName": "CombatArena",
-      "latest": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "releaseNotes": "Initial release.",
-          "size": 300000000,
-          "archives": [
-            {
-              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.5.zip",
-              "sha256": "<PUT_REAL_SHA256_OF_Test.5.zip_HERE>"
-            }
-          ]
-        }
-      }
-    },
-       {
-      "id": "combat-system",
-      "title": "Combat Arena",
-      "platform": ["windows"],
-      "summary": "Fast-paced action fighting game.",
-      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
-      "installDirName": "CombatArena",
-      "latest": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "releaseNotes": "Initial release.",
-          "size": 300000000,
-          "archives": [
-            {
-              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.5.zip",
-              "sha256": "<PUT_REAL_SHA256_OF_Test.5.zip_HERE>"
-            }
-          ]
-        }
-      }
-    },
-       {
-      "id": "mini-militia",
-      "title": "Combat Arena",
-      "platform": ["windows"],
-      "summary": "Fast-paced action fighting game.",
-      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
-      "installDirName": "CombatArena",
-      "latest": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "releaseNotes": "Initial release.",
-          "size": 300000000,
-          "archives": [
-            {
-              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.5.zip",
-              "sha256": "<PUT_REAL_SHA256_OF_Test.5.zip_HERE>"
-            }
-          ]
-        }
-      }
-    },
-       {
-      "id": "space-runner",
-      "title": "Combat Arena",
-      "platform": ["windows"],
-      "summary": "Fast-paced action fighting game.",
-      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
-      "installDirName": "CombatArena",
-      "latest": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "releaseNotes": "Initial release.",
-          "size": 300000000,
-          "archives": [
-            {
-              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.5.zip",
-              "sha256": "<PUT_REAL_SHA256_OF_Test.5.zip_HERE>"
-            }
-          ]
-        }
-      }
-    },
-       {
-      "id": "combat-Mount",
-      "title": "Combat Arena",
-      "platform": ["windows"],
-      "summary": "Fast-paced action fighting game.",
-      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
-      "installDirName": "CombatArena",
-      "latest": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "releaseNotes": "Initial release.",
-          "size": 300000000,
-          "archives": [
-            {
-              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.5.zip",
-              "sha256": "<PUT_REAL_SHA256_OF_Test.5.zip_HERE>"
-            }
-          ]
-        }
-      }
-    },
-       {
-      "id": "combat-arena",
-      "title": "Combat Arena",
-      "platform": ["windows"],
-      "summary": "Fast-paced action fighting game.",
-      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
-      "installDirName": "CombatArena",
-      "latest": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "releaseNotes": "Initial release.",
-          "size": 300000000,
-          "archives": [
-            {
-              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.5.zip",
-              "sha256": "<PUT_REAL_SHA256_OF_Test.5.zip_HERE>"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "snake-classic",
-      "title": "Snake Classic",
-      "platform": ["windows"],
-      "summary": "Retro snake game with modern graphics.",
-      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
-      "installDirName": "SnakeClassic",
-      "latest": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "releaseNotes": "Initial release.",
-          "size": 45000000,
-          "archives": [
-            {
-              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.6.zip",
-              "sha256": "<PUT_REAL_SHA256_OF_Test.6.zip_HERE>"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "brick-breaker",
-      "title": "Brick Breaker",
-      "platform": ["windows"],
-      "summary": "Addictive brick breaking arcade game.",
-      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
-      "installDirName": "BrickBreaker",
-      "latest": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "releaseNotes": "Initial release.",
-          "size": 65000000,
-          "archives": [
-            {
-              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.7.zip",
-              "sha256": "<PUT_REAL_SHA256_OF_Test.7.zip_HERE>"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "maze-runner",
-      "title": "Maze Runner",
-      "platform": ["windows"],
-      "summary": "Navigate complex mazes to win.",
-      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
-      "installDirName": "MazeRunner",
-      "latest": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "releaseNotes": "Initial release.",
-          "size": 120000000,
-          "archives": [
-            {
-              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.8.zip",
-              "sha256": "<PUT_REAL_SHA256_OF_Test.8.zip_HERE>"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "platformer-quest",
-      "title": "Platformer Quest",
-      "platform": ["windows"],
-      "summary": "Epic platformer adventure game.",
-      "icon": "https://gamemaniacus.github.io/Arcade_Content/Bird_01.png",
-      "installDirName": "PlatformerQuest",
-      "latest": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "releaseNotes": "Initial release.",
-          "size": 200000000,
-          "archives": [
-            {
-              "url": "https://github.com/GameManiacus/Arcade_Content/releases/download/v0.0.1/Test.9.zip",
-              "sha256": "<PUT_REAL_SHA256_OF_Test.9.zip_HERE>"
             }
           ]
         }
@@ -368,5 +107,3 @@
     }
   ]
 }
-
-
