@@ -10,16 +10,9 @@
         {
           "title": "Official Trailer",
           "description": "Get your first look at the stunning world of Cyberpunk Warriors",
-          "youtubeUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          "youtubeUrl": "https://youtu.be/qLjB7rDCaN4?si=sUWHFnKNuRNylnlv",
           "thumbnailUrl": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
           "duration": "2:30"
-        },
-        {
-          "title": "Gameplay Preview",
-          "description": "See the combat system and character customization in action",
-          "youtubeUrl": "https://www.youtube.com/watch?v=s3pDMUWlA6I",
-          "thumbnailUrl": "https://img.youtube.com/vi/s3pDMUWlA6I/maxresdefault.jpg",
-          "duration": "5:45"
         }
       ]
     },
@@ -33,16 +26,9 @@
         {
           "title": "Announcement Trailer",
           "description": "The journey continues in this epic space adventure",
-          "youtubeUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-          "thumbnailUrl": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
-          "duration": "1:45"
-        },
-        {
-          "title": "Developer Interview",
-          "description": "Hear from the team about the new features and improvements",
-          "youtubeUrl": "https://www.youtube.com/watch?v=s3pDMUWlA6I",
+          "youtubeUrl": "https://youtu.be/qLjB7rDCaN4?si=sUWHFnKNuRNylnlv",
           "thumbnailUrl": "https://img.youtube.com/vi/s3pDMUWlA6I/maxresdefault.jpg",
-          "duration": "8:15"
+          "duration": "1:45"
         }
       ]
     },
@@ -56,16 +42,9 @@
         {
           "title": "Cinematic Trailer",
           "description": "Experience the magic and wonder of Mystic Realms",
-          "youtubeUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          "youtubeUrl": "https://youtu.be/qLjB7rDCaN4?si=sUWHFnKNuRNylnlv",
           "thumbnailUrl": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
           "duration": "3:20"
-        },
-        {
-          "title": "Character Creation",
-          "description": "Learn about the deep character customization system",
-          "youtubeUrl": "https://www.youtube.com/watch?v=s3pDMUWlA6I",
-          "thumbnailUrl": "https://img.youtube.com/vi/s3pDMUWlA6I/maxresdefault.jpg",
-          "duration": "4:30"
         }
       ]
     },
@@ -79,14 +58,39 @@
         {
           "title": "Gameplay Trailer",
           "description": "Feel the speed and excitement of Racing Thunder",
-          "youtubeUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-          "thumbnailUrl": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+          "youtubeUrl": "https://youtu.be/qLjB7rDCaN4?si=sUWHFnKNuRNylnlv",
+          "thumbnailUrl": "https://img.youtube.com/vi/s3pDMUWlA6I/maxresdefault.jpg",
           "duration": "2:15"
-        },
+        }
+      ]
+    },
+    {
+      "gameName": "Neon City Runner",
+      "description": "A fast-paced parkour game set in a cyberpunk city. Run, jump, and climb through neon-lit streets while evading corporate security forces.",
+      "onDate": true,
+      "postponed": false,
+      "releaseDate": "2024-07-12T00:00:00Z",
+      "videos": [
         {
-          "title": "Car Customization",
-          "description": "See how you can personalize your racing experience",
-          "youtubeUrl": "https://www.youtube.com/watch?v=s3pDMUWlA6I",
+          "title": "Gameplay Showcase",
+          "description": "See the fluid parkour mechanics in action",
+          "youtubeUrl": "https://youtu.be/qLjB7rDCaN4?si=sUWHFnKNuRNylnlv",
+          "thumbnailUrl": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+          "duration": "4:10"
+        }
+      ]
+    },
+    {
+      "gameName": "Dragon's Legacy",
+      "description": "An epic fantasy adventure where you play as a dragon rider. Explore vast landscapes, battle mythical creatures, and forge alliances in this immersive RPG.",
+      "onDate": false,
+      "postponed": true,
+      "releaseDate": "2024-08-30T00:00:00Z",
+      "videos": [
+        {
+          "title": "Cinematic Trailer",
+          "description": "Witness the epic scale of Dragon's Legacy",
+          "youtubeUrl": "https://youtu.be/qLjB7rDCaN4?si=sUWHFnKNuRNylnlv",
           "thumbnailUrl": "https://img.youtube.com/vi/s3pDMUWlA6I/maxresdefault.jpg",
           "duration": "3:45"
         }
